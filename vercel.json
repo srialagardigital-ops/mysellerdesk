@@ -1,6 +1,8 @@
 {
   "rewrites": [
     { "source": "/", "destination": "/landing-index.html" },
-    { "source": "/dashboard", "destination": "/dashboard-index.html" }
+    { "source": "/dashboard", "destination": "/dashboard-index.html" },
+    { "source": "/privacy", "destination": "/landing-page-privacy.html" },
+    { "source": "/terms", "destination": "/landing-page-terms.html" }
   ]
 }
